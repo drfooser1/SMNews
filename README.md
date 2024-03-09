@@ -1,2 +1,2 @@
 # SMNews
- CHurch Newsletter
+ Church Newsletter
